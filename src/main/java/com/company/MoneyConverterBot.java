@@ -22,7 +22,7 @@ public class MoneyConverterBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "5120530004:AAGo7gIGeT8XXPb-gFIqwvejPi1FoG_3xUc";
+        return "";
     }
 
     @Override
